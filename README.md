@@ -1,5 +1,8 @@
 1- Creación de un proyecto en IntelliJ
 
+![image](https://user-images.githubusercontent.com/113994483/201711865-978cc4bf-8755-4d49-8dc0-4d716e2b6885.png)
+
+
 2- Primer commit:<br>
 $ git init<br>
 $ git add .<br>
